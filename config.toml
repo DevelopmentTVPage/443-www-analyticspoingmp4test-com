@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "AnalyticsPingMp4"
+baseURL = "https:\/\/www.analyticspoingmp4test.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758927"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "analyticspoingmp4test.com"
